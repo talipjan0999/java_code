@@ -6,6 +6,7 @@ public class dayselecter {
 		int day=10;
 		switch (day) {
 		case 1:
+			
 			System.out.println("Monday");
 			break;
 		case 2:
